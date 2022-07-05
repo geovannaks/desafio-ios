@@ -10,12 +10,27 @@
 		00DFA0A15CB4B2B7E68EEF2E /* Pods_projeto.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 399A971B696966B5AE8D9505 /* Pods_projeto.framework */; };
 		9A163C38287469C500BA2822 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C37287469C500BA2822 /* AppDelegate.swift */; };
 		9A163C3A287469C500BA2822 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C39287469C500BA2822 /* SceneDelegate.swift */; };
-		9A163C3C287469C500BA2822 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C3B287469C500BA2822 /* ViewController.swift */; };
 		9A163C41287469C600BA2822 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A163C40287469C600BA2822 /* Assets.xcassets */; };
 		9A163C44287469C600BA2822 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A163C42287469C600BA2822 /* LaunchScreen.storyboard */; };
 		9A163C4F287469C600BA2822 /* projetoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C4E287469C600BA2822 /* projetoTests.swift */; };
 		9A163C59287469C600BA2822 /* projetoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C58287469C600BA2822 /* projetoUITests.swift */; };
 		9A163C5B287469C600BA2822 /* projetoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C5A287469C600BA2822 /* projetoUITestsLaunchTests.swift */; };
+		9A163C6B28746C4100BA2822 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C6A28746C4100BA2822 /* TabBarController.swift */; };
+		9A163C6E28746C5200BA2822 /* ButtonModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C6C28746C5200BA2822 /* ButtonModel.swift */; };
+		9A163C6F28746C5200BA2822 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C6D28746C5200BA2822 /* DataModel.swift */; };
+		9A163C7A28746C6000BA2822 /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7028746C6000BA2822 /* AccountView.swift */; };
+		9A163C7B28746C6000BA2822 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7128746C6000BA2822 /* ButtonView.swift */; };
+		9A163C7C28746C6000BA2822 /* CadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7228746C6000BA2822 /* CadView.swift */; };
+		9A163C7D28746C6000BA2822 /* DataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7328746C6000BA2822 /* DataView.swift */; };
+		9A163C7E28746C6000BA2822 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7428746C6000BA2822 /* LoginView.swift */; };
+		9A163C7F28746C6000BA2822 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7628746C6000BA2822 /* CardView.swift */; };
+		9A163C8028746C6000BA2822 /* PixView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7728746C6000BA2822 /* PixView.swift */; };
+		9A163C8128746C6000BA2822 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7828746C6000BA2822 /* HomeView.swift */; };
+		9A163C8228746C6000BA2822 /* ManagementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A163C7928746C6000BA2822 /* ManagementView.swift */; };
+		9A163C8928746E9400BA2822 /* AvenirLTStd-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A163C8528746E9400BA2822 /* AvenirLTStd-Black.otf */; };
+		9A163C8A28746E9400BA2822 /* AvenirLTStd-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A163C8628746E9400BA2822 /* AvenirLTStd-Book.otf */; };
+		9A163C8B28746E9400BA2822 /* AvenirLTStd-Roman.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A163C8728746E9400BA2822 /* AvenirLTStd-Roman.otf */; };
+		9A163C8C28746E9400BA2822 /* Avenir.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 9A163C8828746E9400BA2822 /* Avenir.ttc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +55,6 @@
 		9A163C34287469C500BA2822 /* projeto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = projeto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A163C37287469C500BA2822 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A163C39287469C500BA2822 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9A163C3B287469C500BA2822 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9A163C40287469C600BA2822 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A163C43287469C600BA2822 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A163C45287469C600BA2822 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -49,6 +63,22 @@
 		9A163C54287469C600BA2822 /* projetoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = projetoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A163C58287469C600BA2822 /* projetoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = projetoUITests.swift; sourceTree = "<group>"; };
 		9A163C5A287469C600BA2822 /* projetoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = projetoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9A163C6A28746C4100BA2822 /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		9A163C6C28746C5200BA2822 /* ButtonModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonModel.swift; sourceTree = "<group>"; };
+		9A163C6D28746C5200BA2822 /* DataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		9A163C7028746C6000BA2822 /* AccountView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
+		9A163C7128746C6000BA2822 /* ButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		9A163C7228746C6000BA2822 /* CadView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CadView.swift; sourceTree = "<group>"; };
+		9A163C7328746C6000BA2822 /* DataView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataView.swift; sourceTree = "<group>"; };
+		9A163C7428746C6000BA2822 /* LoginView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		9A163C7628746C6000BA2822 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		9A163C7728746C6000BA2822 /* PixView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PixView.swift; sourceTree = "<group>"; };
+		9A163C7828746C6000BA2822 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		9A163C7928746C6000BA2822 /* ManagementView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ManagementView.swift; sourceTree = "<group>"; };
+		9A163C8528746E9400BA2822 /* AvenirLTStd-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTStd-Black.otf"; sourceTree = "<group>"; };
+		9A163C8628746E9400BA2822 /* AvenirLTStd-Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTStd-Book.otf"; sourceTree = "<group>"; };
+		9A163C8728746E9400BA2822 /* AvenirLTStd-Roman.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirLTStd-Roman.otf"; sourceTree = "<group>"; };
+		9A163C8828746E9400BA2822 /* Avenir.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Avenir.ttc; sourceTree = "<group>"; };
 		CDB6E7DB37806579C2D031F5 /* Pods-projeto.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projeto.release.xcconfig"; path = "Target Support Files/Pods-projeto/Pods-projeto.release.xcconfig"; sourceTree = "<group>"; };
 		E67C994E0C0FD4445128589D /* Pods-projeto.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-projeto.debug.xcconfig"; path = "Target Support Files/Pods-projeto/Pods-projeto.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -85,7 +115,6 @@
 				E67C994E0C0FD4445128589D /* Pods-projeto.debug.xcconfig */,
 				CDB6E7DB37806579C2D031F5 /* Pods-projeto.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -114,9 +143,12 @@
 		9A163C36287469C500BA2822 /* projeto */ = {
 			isa = PBXGroup;
 			children = (
+				9A163C8328746E9400BA2822 /* Font */,
 				9A163C37287469C500BA2822 /* AppDelegate.swift */,
 				9A163C39287469C500BA2822 /* SceneDelegate.swift */,
-				9A163C3B287469C500BA2822 /* ViewController.swift */,
+				9A163C6928746C2C00BA2822 /* Controller */,
+				9A163C6828746C2600BA2822 /* View */,
+				9A163C6728746C1D00BA2822 /* Model */,
 				9A163C40287469C600BA2822 /* Assets.xcassets */,
 				9A163C42287469C600BA2822 /* LaunchScreen.storyboard */,
 				9A163C45287469C600BA2822 /* Info.plist */,
@@ -139,6 +171,66 @@
 				9A163C5A287469C600BA2822 /* projetoUITestsLaunchTests.swift */,
 			);
 			path = projetoUITests;
+			sourceTree = "<group>";
+		};
+		9A163C6728746C1D00BA2822 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9A163C6C28746C5200BA2822 /* ButtonModel.swift */,
+				9A163C6D28746C5200BA2822 /* DataModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9A163C6828746C2600BA2822 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				9A163C7528746C6000BA2822 /* PlaceHolderView */,
+				9A163C7028746C6000BA2822 /* AccountView.swift */,
+				9A163C7128746C6000BA2822 /* ButtonView.swift */,
+				9A163C7228746C6000BA2822 /* CadView.swift */,
+				9A163C7328746C6000BA2822 /* DataView.swift */,
+				9A163C7428746C6000BA2822 /* LoginView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		9A163C6928746C2C00BA2822 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				9A163C6A28746C4100BA2822 /* TabBarController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		9A163C7528746C6000BA2822 /* PlaceHolderView */ = {
+			isa = PBXGroup;
+			children = (
+				9A163C7628746C6000BA2822 /* CardView.swift */,
+				9A163C7728746C6000BA2822 /* PixView.swift */,
+				9A163C7828746C6000BA2822 /* HomeView.swift */,
+				9A163C7928746C6000BA2822 /* ManagementView.swift */,
+			);
+			path = PlaceHolderView;
+			sourceTree = "<group>";
+		};
+		9A163C8328746E9400BA2822 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				9A163C8428746E9400BA2822 /* avenir_ff */,
+				9A163C8828746E9400BA2822 /* Avenir.ttc */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		9A163C8428746E9400BA2822 /* avenir_ff */ = {
+			isa = PBXGroup;
+			children = (
+				9A163C8528746E9400BA2822 /* AvenirLTStd-Black.otf */,
+				9A163C8628746E9400BA2822 /* AvenirLTStd-Book.otf */,
+				9A163C8728746E9400BA2822 /* AvenirLTStd-Roman.otf */,
+			);
+			path = avenir_ff;
 			sourceTree = "<group>";
 		};
 		B2138C5253FA43B1681EDB13 /* Frameworks */ = {
@@ -256,7 +348,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A163C44287469C600BA2822 /* LaunchScreen.storyboard in Resources */,
+				9A163C8928746E9400BA2822 /* AvenirLTStd-Black.otf in Resources */,
+				9A163C8C28746E9400BA2822 /* Avenir.ttc in Resources */,
 				9A163C41287469C600BA2822 /* Assets.xcassets in Resources */,
+				9A163C8B28746E9400BA2822 /* AvenirLTStd-Roman.otf in Resources */,
+				9A163C8A28746E9400BA2822 /* AvenirLTStd-Book.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -323,9 +419,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A163C3C287469C500BA2822 /* ViewController.swift in Sources */,
+				9A163C8128746C6000BA2822 /* HomeView.swift in Sources */,
+				9A163C6B28746C4100BA2822 /* TabBarController.swift in Sources */,
+				9A163C7D28746C6000BA2822 /* DataView.swift in Sources */,
+				9A163C7B28746C6000BA2822 /* ButtonView.swift in Sources */,
+				9A163C6E28746C5200BA2822 /* ButtonModel.swift in Sources */,
 				9A163C38287469C500BA2822 /* AppDelegate.swift in Sources */,
+				9A163C7A28746C6000BA2822 /* AccountView.swift in Sources */,
 				9A163C3A287469C500BA2822 /* SceneDelegate.swift in Sources */,
+				9A163C7E28746C6000BA2822 /* LoginView.swift in Sources */,
+				9A163C7C28746C6000BA2822 /* CadView.swift in Sources */,
+				9A163C8228746C6000BA2822 /* ManagementView.swift in Sources */,
+				9A163C8028746C6000BA2822 /* PixView.swift in Sources */,
+				9A163C7F28746C6000BA2822 /* CardView.swift in Sources */,
+				9A163C6F28746C5200BA2822 /* DataModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
